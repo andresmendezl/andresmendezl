@@ -23,6 +23,7 @@ const andres = {
   cares:    ["latency", "idempotency", "the failure mode you didn't think of"],
   believes: "boring code, running for years, untouched — that's the flex",
   location: 0.000042, // seconds from the exchange
+  history:  "previous github account disabled. we don't talk about it.",
 } as const;
 ```
 
